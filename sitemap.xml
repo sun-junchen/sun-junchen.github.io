@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/sun-junchen/sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2021-04-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/sun-junchen/sun-junchen.github.io/2021/03/29/hello-world/</loc>
+    <loc>https://sun-junchen.github.io/2021/03/29/hello-world/</loc>
     
     <lastmod>2021-03-29</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>https://github.com/sun-junchen/sun-junchen.github.io</loc>
+    <loc>https://sun-junchen.github.io/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
