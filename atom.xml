@@ -3,11 +3,11 @@
   <title>Junchen-Blog</title>
   
   
-  <link href="https://sun-junchen.github.io/atom.xml" rel="self"/>
+  <link href="https://github.com/sun-junchen/sun-junchen.github.io/atom.xml" rel="self"/>
   
-  <link href="https://sun-junchen.github.io/"/>
+  <link href="https://github.com/sun-junchen/sun-junchen.github.io/"/>
   <updated>2021-04-26T01:54:20.202Z</updated>
-  <id>https://sun-junchen.github.io/</id>
+  <id>https://github.com/sun-junchen/sun-junchen.github.io/</id>
   
   <author>
     <name>SunJunchen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>day01-Java基础语法</title>
-    <link href="https://sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
-    <id>https://sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://github.com/sun-junchen/sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    <id>https://github.com/sun-junchen/sun-junchen.github.io/2021/04/26/day01-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id>
     <published>2021-04-26T01:53:52.000Z</published>
     <updated>2021-04-26T01:54:20.202Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sun-junchen.github.io/2021/03/29/hello-world/"/>
-    <id>https://sun-junchen.github.io/2021/03/29/hello-world/</id>
+    <link href="https://github.com/sun-junchen/sun-junchen.github.io/2021/03/29/hello-world/"/>
+    <id>https://github.com/sun-junchen/sun-junchen.github.io/2021/03/29/hello-world/</id>
     <published>2021-03-29T13:03:12.827Z</published>
     <updated>2021-03-29T13:03:12.827Z</updated>
     
